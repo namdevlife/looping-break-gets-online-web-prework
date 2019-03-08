@@ -1,4 +1,3 @@
-
 def levitation_quiz
 	#your code here
 	Loop do
